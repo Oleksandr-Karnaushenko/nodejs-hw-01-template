@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "9cfe587b-ed55-45d0-a64e-820289158c94",
+    "name": "Elsa Turner",
+    "phone": "968-608-8886 x29341",
+    "email": "Adele21@gmail.com",
+    "job": "Internal Accounts Officer"
+  },
+  {
+    "id": "4b112398-f0a5-41cd-a03c-fcee60d890ac",
+    "name": "Krystal Schmitt",
+    "phone": "381.781.8347 x1794",
+    "email": "Mollie32@gmail.com",
+    "job": "Dynamic Response Analyst"
+  },
+  {
+    "id": "c7e6e613-8426-42ec-bc68-580b542ef51c",
+    "name": "Tanya Frami",
+    "phone": "756.236.7953 x80875",
+    "email": "Rahul_Bechtelar0@gmail.com",
+    "job": "Future Quality Strategist"
+  }
+]
